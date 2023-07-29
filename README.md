@@ -1,4 +1,4 @@
-# python-starmap-async
+# Python starmap_async with logging
 
 How to pass arguments to python map_async using starmap_async example with logging.
 
